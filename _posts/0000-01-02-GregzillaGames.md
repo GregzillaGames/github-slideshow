@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Your chat
 Use the left arrow to go back!
 You see the godzilla?!?!
